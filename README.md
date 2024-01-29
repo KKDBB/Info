@@ -1,3 +1,1 @@
-# Info
-
-Documentación de interes hacking Etico
+# Documentación de interes hacking Etico
